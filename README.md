@@ -1,2 +1,1 @@
-# lotion
-Lotion.js starter dapp
+dapp
